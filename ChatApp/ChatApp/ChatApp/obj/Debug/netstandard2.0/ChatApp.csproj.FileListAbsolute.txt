@@ -1,0 +1,8 @@
+C:\Users\My laptop\Desktop\ChatpAPP\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.AssemblyReference.cache
+C:\Users\My laptop\Desktop\ChatpAPP\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My laptop\Desktop\ChatpAPP\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\My laptop\Desktop\ChatpAPP\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\ChatRoomPage.xaml.g.cs
+C:\Users\My laptop\Desktop\ChatpAPP\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\My laptop\Desktop\ChatpAPP\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfoInputs.cache
+C:\Users\My laptop\Desktop\ChatpAPP\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfo.cs
+C:\Users\My laptop\Desktop\ChatpAPP\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.CoreCompileInputs.cache
